@@ -1,0 +1,1006 @@
+id,Primary Text,Guidance,isHeading,parentBinding,module,Artifact Type
+1789,Replace Text,"","","","",Information
+1566,Communications interfaces,"","","","",Heading
+1937,Problem Statement,[Provide a statement summarizing the problem being solved by this project. The following format may be used:],"","","",Heading
+1798,User End States,"","","","",Heading
+1886,Limits and Tolerances,"","","","",Heading
+1668,Reliability Requirements,"","","","",Heading
+1624,Alternatives and Competition,"[Identify alternatives the stakeholder perceives as available. These can include buying a competitor’s product, building a homegrown solution, or simply maintaining the status quo. List any known competitive choices that exist or may become available. Include the major strengths and weaknesses of each competitor as perceived by the stakeholder or end user.]","","","",Heading
+1586,Replace Text,"","","","",Information
+1905,Assumptions and Dependencies,"This section should list the assumptions that the specific requirements are based on. Risk analysis should be used to identify assumptions that may not prove to be valid.
+A constraint requirement, for example, might specify an interface with a system that does not exist. If the production of the system does not occur when expected, the Stakeholder Requirements Specification may have to change.","","","",Heading
+1865,Replace Text,"","","","",Information
+1797,Maintainability Requirements,"","","","",Heading
+1906,Replace Text,"","","","",Information
+1655,Document Conventions,"Describe any standards or typographical conventions that were followed when writing this SRS, such as fonts or highlighting that have special significance. For example, state whether attributes for higher-level requirements are assumed to be inherited by detailed requirements, or whether every requirement statement is to have its own set of attributes.","","","",Heading
+1592,Assumptions and Dependencies,"List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as components that you intend to reuse from another project, unless they are already documented elsewhere (for example, in the vision and scope document or the project plan).","","","",Heading
+1571,Purpose of the Document,"This section should:
+(1) define the purpose of the particular Stakeholder Requirements Specification;
+(2) specify the intended readership of the Stakeholder Requirements Specification.","","","",Heading
+1618,Weighted MoE,"","","","",Trade Study Assessment Criterion
+1892,Scope of the Product,"This section should:
+(1) identify the software product(s) to be produced by name;
+(2)	explain what the proposed software will do (and will not do, if necessary);
+(3)	describe relevant benefits, objectives, and goals as precisely as possible;
+(4)	be consistent with similar statements in higher-level specifications, if they exist.","","","",Heading
+1622,"","","","","",FMEA - Object
+1720,Replace Text,"","","","",System Requirement
+1664,Replace Text,"","","","",Information
+1846,Physical/Chemical Characteristics,"","","","",Heading
+1620,Security Requirements,Specify any requirements regarding security or privacy issues surrounding use of the product or protection of the data used or created by the product. Define any user identity authentication requirements. Refer to any external policies or regulations containing security issues that affect the product. Define any security or privacy certifications that must be satisfied.,"","","",Heading
+1785,Probability of Detection,"","","","",Heading
+1594,Stakeholder n Name,"","","","",Stakeholder Definition
+1759,Documentation Requirements,"","","","",Heading
+1856,Weighted MoE,"","","","",Trade Study Assessment Criterion
+1925,Replace Text,"","","","",System Requirement
+1777,<Key System Function #1>,<Replace the heading with the name of the key system function analyzed in this section. Describe the key system function. List or reference via traceability links the system functions that compose this key system function. Copy/Paste this section with children sections to add additional key system functions>,"","","",Heading
+1861,…,"","","","",Trade Study Assessment Criterion
+1878,Replace Text,"","","","",System Requirement
+1816,Scope,< Describe the scope of this Trade Study Report. Which system is being defined? What will and will not be considered?>,"","","",Heading
+1639,Stakeholder Descriptions,"","","","",Heading
+1719,User Classes and Characteristics,"Identify the various user classes that you anticipate will use this product. User classes may be differentiated based on frequency of use, subset of product functions used, technical expertise, security or privilege levels, educational level, or experience. Describe the pertinent characteristics of each user class. Certain requirements may pertain only to certain user classes. Distinguish the favored user classes from those who are less important to satisfy. This section is not needed in all cases, for example if a subsystem has no users and is entirely internal to a larger system.","","","",Heading
+1569,<Replace text>,"","","","",Trade Study Assessment Criterion
+1877,Conclusions for <Key System Function #1>,Summarize the findings of the trade study for this key system function,"","","",Heading
+1888,Criteria,"","","","",Trade Study Assessment Criterion
+1787,Materials,"","","","",Heading
+1746,Relation to Current Products,"","","","",Heading
+1752,Overall Description,"","","","",Heading
+1898,Replace Text,"","","","",Stakeholder Requirement
+1761,Replace Text,"","","","",System Requirement
+1883,Hardware interfaces,"","","","",Heading
+1580,Replace Text,"","","","",Stakeholder Requirement
+1817,Replace Text,"","","","",System Requirement
+1612,Function Description,Provide a short description of the function.,"","","",Heading
+1593,Safety Requirements,"Specify those requirements that are concerned with possible loss, damage, or harm that could result from the use of the product. Define any safeguards or actions that must be taken, as well as actions that must be prevented. Refer to any external policies or regulations that state safety issues that affect the product’s design or use. Define any safety certifications that must be satisfied.","","","",Heading
+1939,Weighted MoE,"","","","",Trade Study Assessment Criterion
+1814,Assumptions and Dependencies,"List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as components that you intend to reuse from another project, unless they are already documented elsewhere (for example, in the vision and scope document or the project plan).","","","",Heading
+1822,Replace Text,"","","","",Information
+1866,General Description,"","","","",Heading
+1844,"Definitions Acronyms, and Abbreviations","","","","",Heading
+1914,Total,"","","","",Trade Study Assessment Criterion
+1616,Sterility,"","","","",Heading
+1764,Voluntary/Organizational Requirements,"","","","",Heading
+1633,Availability,"The stakeholder must describe the consequences of losses of availability, so that the developers can fully appreciate the criticality of each function","","","",Heading
+1732,Feature N1,"","","","",Vision Statement
+1795,"","","","","",FMEA - Object
+1895,Design and Implementation Constraints,"Describe any items or issues that will limit the options available to the developers. These might include: corporate or regulatory policies; hardware limitations (timing requirements, memory requirements); interfaces to other applications; specific technologies, tools, and databases to be used; parallel operations; language requirements; communications protocols; security considerations; design conventions or programming standards (for example, if the system contains embedded software).","","","",Heading
+1692,User Environment,"[Detail the working environment of the target user. Here are some suggestions:
+Number of people involved in completing the task? Is this changing?
+How long is a task cycle?
+Amount of time spent in each activity? Is this changing?
+
+Any unique environmental constraints: mobile, outdoors, in-flight, and so on?
+Which system platforms are in use today? Future platforms?
+
+What other applications are in use? Does your application need to integrate with them?
+
+This is where extracts from the Business Model could be included to outline the task and roles involved, and so on.]","","","",Heading
+1910,Document Conventions,"Describe any standards or typographical conventions that were followed when writing this SRS, such as fonts or highlighting that have special significance. For example, state whether attributes for higher-level requirements are assumed to be inherited by detailed requirements, or whether every requirement statement is to have its own set of attributes.","","","",Heading
+1784,Interfaces,"Constraint requirements that relate to interfaces should be grouped, for example as in the following sections.
+If the software is part of a larger system then any documents (e.g. ICDs) that describe the interfaces should be identified.","","","",Heading
+1598,Assumptions and Dependencies,"[List each factor that affects the features stated in the Vision document. List assumptions that, if changed, will alter the Vision document. For example, an assumption may state that a specific operating system will be available for the hardware designated for the software product. If the operating system is not available, the Vision document will need to change.]","","","",Heading
+1819,Replace Text,"","","","",Stakeholder Requirement
+1724,Replace Text,"","","","",Information
+1663,Resource Requirements,"","","","",Heading
+1634,Replace Text,"","","","",Information
+1808,Introduction,"","","","",Heading
+1928,"","","","","",FMEA - Object
+1924,Replace Text,"","","","",System Requirement
+1678,Replace Text,"","","","",Information
+1700,System approvals and standards,"","","","",Heading
+1802,Replace Text,"","","","",Information
+1646,Replace Text,"","","","",Stakeholder Requirement
+1851,Introduction,"","","","",Heading
+1743,Functional Requirements,"Itemize the detailed functional requirements associated with this function. These are the software capabilities that must be present in order for the user to carry out the services, or to execute the use case. Include how the product should respond to anticipated error conditions or invalid inputs. Requirements should be concise, complete, unambiguous, verifiable, and necessary. Use “TBD” as a placeholder to indicate when necessary information is not yet available.","","","",Heading
+1938,<Replace text>,"","","","",Information
+1630,Feature N2,"","","","",Vision Statement
+1737,Sum of Weighted MoEs,"","","","",Trade Study Assessment Criterion
+1570,"For
+[target customer]
+Who
+[statement of the need or opportunity]
+The (product name)
+is a [product category]
+That
+[statement of key benefit; that is, the compelling reason to buy]
+Unlike
+[primary competitive alternative]
+Our product
+[statement of primary differentiation]","","","","",Vision Statement
+1728,Replace Text,"","","","",Stakeholder Requirement
+1669,Validation Requirements,"","","","",Heading
+1745,Fluid Ingress,"","","","",Heading
+1568,Portability,The stakeholder must describe the needs for portability of the system,"","","",Heading
+1807,Product Perspective,"Describe the context and origin of the product being specified in this specification. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the specification defines a component of a larger system, relate the requirements of the larger system to the functionality of this system and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful. Details of the external interfaces should be captured in a separate interface control document that is referenced from this specification for completeness and to simplify interactions with suppliers of interfacing systems.","","","",Heading
+1562,References,"List any other documents or Web addresses to which this SRS refers. These may include user interface style guides, contracts, standards, system requirements specifications, use case documents, or a vision and scope document. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.","","","",Heading
+1847,"Definitions Acronyms, and Abbreviations","Ideally this information shouild be held in a central Glossary. In some cases it may be felt necessary to include it here, though we would discourage this practice and recommend information is imported from the Glossary through reporting as needed.","","","",Heading
+1860,Human Factors,"","","","",Heading
+1629,Replace Text,"","","","",System Requirement
+1588,Replace Text,"","","","",System Requirement
+1716,Product Description,"","","","",Heading
+1790,Introduction,This section should provide an overview of the entire document and a description of the scope of the software.,"","","",Heading
+1632,Solution Candidate #1,<Replace the heading with the name of the solution candidate. Describe the solution candidate. Provide source data (i.e. nominal values for each assessment criterion) either directly in this document or by reference. Copy/paste this section as required to add additional solution candidates as required.>,"","","",Heading
+1689,Replace Text,"","","","",System Requirement
+1660,Limits and Tolerances,"","","","",Heading
+1791,Feature 12,"","","","",Vision Statement
+1772,Internal Architecture,"","","","",Heading
+1862,Human Factors,"","","","",Heading
+1863,Replace Text,"","","","",Information
+1714,Replace Text,"","","","",System Requirement
+1841,Product Perspective,"[This subsection of the Vision document puts the product in perspective to other related products and the user’s environment. If the product is independent and totally self-contained, state it here. If the product is a component of a larger system, then this subsection needs to relate how these systems interact and needs to identify the relevant interfaces between the systems. One easy way to display the major components of the larger system, interconnections, and external interfaces is with a block diagram.]","","","",Heading
+1804,Operational Scenarios,"","","","",Heading
+1769,Replace Text,"","","","",Information
+1710,Replace Text,"","","","",System Requirement
+1811,"","","","","",Trade Study Assessment Criterion
+1773,Replace Text,"","","","",System Requirement
+1578,System Function 1,Don’t really say “System Function 1.” State the function name in just a few words. If appropriate use the provided headings to provide additional detail.,"","","",Heading
+1879,Intended Use,"","","","",Heading
+1726,Replace Text,"","","","",Information
+1874,Replace Text,"","","","",System Requirement
+1926,Electromagnetic Compatibility (EMC),"","","","",Heading
+1894,Purpose,"Identify the product whose requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.","","","",Heading
+1766,"'--------------------------------------------------------------------------------------------
+| Probability of Detection                                              | Weight | Risk     |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| Used on patient and hazard is not detected by user                    | 1      | High     |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| Used on patient and hazard is detected by user                        | 0.4    | Moderate |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| User detects before use on patient during set up                      | 0.2    | Medium   |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| Identified by customer prior to set up in room                        | 0.1    | Low      |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| Detected prior to shipping product to customer by design              | 0.05   | Very Low |
+|verification, pre-production, process validation, pilot production or  |        |          |
+|manufacturing inspections                                              |        |          |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------","","","","",Information
+1671,Need N,"","","","",Heading
+1783,Replace Text,"","","","",System Requirement
+1913,Replace Text,"","","","",System Requirement
+1900,Operational Requirements,We have provided a typical set of sections. The structure and content of this section should be amended as necessary,"","","",Heading
+1703,Operational Environment,"This section should describe the real world the software is to operate in. This narrative description may be supported by context diagrams, to summaries external interfaces, and system block diagrams, to show how the activity fits within the larger system. The nature of the exchanges with external systems should be specified.
+If a Stakeholder Requirements Specification defines a product that is a component of a parent system or project then this section should:
+· outline the activities that will be supported by external systems;
+· reference the Interface Control Documents that define the external interfaces with the other systems;
+· describe the computer infrastructure to be used.","","","",Heading
+1691,Replace Text,"","","","",Information
+1881,Replace Text,"","","","",System Requirement
+1930,Replace Text,"","","","",Stakeholder Requirement
+1640,Design and Implementation Constraints,"Describe any items or issues that will limit the options available to the developers. These might include: corporate or regulatory policies; hardware limitations (timing requirements, memory requirements); interfaces to other applications; specific technologies, tools, and databases to be used; parallel operations; language requirements; communications protocols; security considerations; design conventions or programming standards (for example, if the system contains embedded software).","","","",Heading
+1911,Replace Text,"","","","",System Requirement
+1921,"","","","","",Trade Study Assessment Criterion
+1757,General Description,This chapter should describe the general factors that affect the product and its requirements. This chapter does not state specific requirements but makes those requirements easier to understand.,"","","",Heading
+1887,Statutory and Regulatory Requirements,"","","","",Heading
+1705,"","","","","",FMEA - Object
+1696,Weighted MoE,"","","","",Trade Study Assessment Criterion
+1718,Feature Nn,"","","","",Vision Statement
+1667,Replace Text,"","","","",Information
+1765,Replace Text,"","","","",System Requirement
+1583,Overall Description,"","","","",Heading
+1727,Human Factors,"","","","",Heading
+1748,Function Description,Provide a short description of the function.,"","","",Heading
+1590,Applicable Documents,"<List any other documents that are applicable. In particular, the stakeholder and system requirements that must be satisfied. Include references to any other source data used in this trade study.>","","","",Heading
+1739,"","","","","",FMEA - Object
+1781,Replace Text,"","","","",Information
+1742,Product Features,"Summarize the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 3, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the specification. A picture of the major groups of related requirements and how they relate, such as a top level data flow diagram or a class diagram, is often effective.","","","",Heading
+1706,Human-computer interactions (user interfaces),"","","","",Heading
+1741,Replace Text,"","","","",Information
+1838,Replace Text,"","","","",System Requirement
+1723,Replace Text,"","","","",System Requirement
+1907,Trade Study Recommendations,<Summarize the results of the trade study for all key system functions and the resulting integrated solution. Identify any resulting constraints on the overall architecture.>,"","","",Heading
+1627,User Acceptance Testing Requirements,"","","","",Heading
+1899,Replace Text,"","","","",Stakeholder Requirement
+1607,Replace Text,"","","","",Stakeholder Requirement
+1653,"","","","","",FMEA - Object
+1733,Replace Text,"","","","",System Requirement
+1840,Solution Candidates,"","","","",Heading
+1658,Stakeholder 2 Name,"","","","",Stakeholder Definition
+1744,Replace Text,"","","","",Information
+1929,Replace Text,"","","","",System Requirement
+1648,Replace Text,"","","","",Stakeholder Requirement
+1749,"'---------------------------------------------------------------------------------------
+| Criteria     | Solution Candidate #1 | Solution Candidate #2 | Solution Candidate #n |
+---------------------------------------------------------------------------------------
+| Criterion #1 | Weighted MoE          | Weighted MoE          | Weighted MoE          |
+---------------------------------------------------------------------------------------
+| Criterion #2 | Weighted MoE          | Weighted MoE          | Weighted MoE          |
+---------------------------------------------------------------------------------------
+| Criterion #n | Weighted MoE          | Weighted MoE          | Weighted MoE          |
+---------------------------------------------------------------------------------------
+| Total        | Sum of Weighted MoEs  | Sum of Weighted MoEs  | Sum of Weighted MoEs  |
+---------------------------------------------------------------------------------------
+
+ ","","","","",Information
+1644,Documentation Requirements,"","","","",Heading
+1832,Other Product Requirement 1,"","","","",Vision Statement
+1815,Replace Text,"","","","",Stakeholder Requirement
+1824,Introduction,"","","","",Heading
+1708,Trade Study Data,"","","","",Heading
+1756,Severity Scale,"","","","",Heading
+1642,Quality Requirements,"","","","",Heading
+1884,Software interfaces,"","","","",Heading
+1674,Replace Text,"","","","",Information
+1601,Replace Text,"","","","",Stakeholder Requirement
+1636,Performance Characteristics,"","","","",Heading
+1916,Replace Text,"","","","",System Requirement
+1799,Nonfunctional Requirements,We have provided a typical set of sections. The structure and content of this section should be amended as necessary,"","","",Heading
+1577,<Risk 1>,"","","","",Risk
+1901,Functional Requirements,"This template illustrates organizing the functional requirements for the product by system functions, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product.","","","",Heading
+1725,Product Overview,"","","","",Heading
+1585,Replace Text,"","","","",System Requirement
+1738,Weighted MoE,"","","","",Trade Study Assessment Criterion
+1912,Replace Text,"","","","",Information
+1880,Replace Text,"","","","",Information
+1830,Replace Text,"","","","",System Requirement
+1600,References,"This section should provide a complete list of all the applicable and reference documents, identified by title, author and date. Each document should be marked as applicable or reference. If appropriate, report number, journal name and publishing organization should be included.","","","",Heading
+1643,Nonfunctional Requirements,We have provided a typical set of sections. The structure and content of this section should be amended as necessary,"","","",Heading
+1873,Replace Text,"","","","",Information
+1579,Replace Text,"","","","",System Requirement
+1775,Materials,"","","","",Heading
+1638,Replace Text,"","","","",Information
+1628,Introduction,"","","","",Heading
+1717,"","","","","",FMEA - Object
+1635,Resource Requirements,"","","","",Heading
+1922,Feature 1n,"","","","",Vision Statement
+1859,Replace Text,"","","","",System Requirement
+1825,Functional Requirements,"Itemize the detailed functional requirements associated with this function. These are the software capabilities that must be present in order for the user to carry out the services, or to execute the use case. Include how the product should respond to anticipated error conditions or invalid inputs. Requirements should be concise, complete, unambiguous, verifiable, and necessary. Use “TBD” as a placeholder to indicate when necessary information is not yet available.","","","",Heading
+1697,"","","","","",FMEA - Object
+1611,S,"","","","",Heading
+1649,Product perspective,"This section puts the product into perspective with other related systems. If the product is to replace an existing system, the system should be described and referenced. Ancestors of the product that are no longer in use might be mentioned. If the product is ‘standalone’, it should be stated here.","","","",Heading
+1621,Operating Environment,"Describe the environment in which the system will operate, including other systems with which the system must interoperate as well as environmental conditions that the system will experience.","","","",Heading
+1823,Replace Text,"","","","",System Requirement
+1730,Compatibility with Environment of Intended Use,"","","","",Heading
+1848,Replace Text,"","","","",Information
+1767,Replace Text,"","","","",Information
+1687,Replace Text,"","","","",System Requirement
+1661,Replace Text,"","","","",System Requirement
+1659,Relationship to Predecessor and Successor Products,"","","","",Heading
+1917,Replace Text,"","","","",System Requirement
+1606,Compatibility with Accessories/Auxiliary Devices,"","","","",Heading
+1800,Replace Text,"","","","",Stakeholder Requirement
+1935,External Operating Environment,"","","","",Heading
+1683,Replace Text,"","","","",Information
+1608,"","","","","",FMEA - Object
+1753,"","","","","",FMEA - Object
+1919,Interface Requirements,"","","","",Heading
+1806,Reliability Requirements,"","","","",Heading
+1870,Stakeholder 1 Name,"","","","",Stakeholder Definition
+1849,Operating Environment,"Describe the environment in which the system will operate, including other systems with which the system must interoperate as well as environmental conditions that the system will experience.","","","",Heading
+1609,Replace Text,"","","","",System Requirement
+1581,Positioning,"","","","",Heading
+1597,Statutory and Regulatory Requirements,"","","","",Heading
+1704,User Documentation,"List the user documentation components (such as user manuals, on-line help, and tutorials) that will be delivered along with the software. Identify any known user documentation delivery formats or standards.","","","",Heading
+1709,"","","","","",FMEA - Object
+1864,Replace Text,"","","","",System Requirement
+1796,Constraint requirements,"Constraint requirements may cover any topic that does not directly relate to the specific capabilities the stakeholders require.
+Requirements that ensure the software will be fit for its purpose should be stated, for example in the following examples sections:","","","",Heading
+1826,Replace Text,"","","","",System Requirement
+1563,General Capabilities,"This section should describe the main capabilities and why they are needed. This section should describe the process to be supported by the software, indicating those parts of the process where it is used.","","","",Heading
+1850,User/Patient/Clinical Needs,"","","","",Heading
+1818,Replace Text,"","","","",System Requirement
+1940,Feature 11,"","","","",Vision Statement
+1681,"","","","","",FMEA - Object
+1715,"","","","","",Trade Study Assessment Criterion
+1882,Replace Text,"","","","",Information
+1893,Replace Text,"","","","",System Requirement
+1690,Need 1,"","","","",Heading
+1701,Safety,The stakeholder must describe the safety needs for the system,"","","",Heading
+1902,Replace Text,"","","","",System Requirement
+1584,FMEA Scales,"Use these scales to assign weights, in the range 0-1, in accordance with your practices for FMECA.","","","",Heading
+1927,Assumption / dependency 1,"","","","",Vision Statement
+1712,Replace Text,"","","","",System Requirement
+1698,Replace Text,"","","","",System Requirement
+1617,Sterility,"","","","",Heading
+1889,Toxicity and Biocompatibility,"","","","",Heading
+1885,Performance Requirements,"","","","",Heading
+1794,Replace Text,"","","","",Information
+1735,Replace Text,"","","","",Information
+1729,"The problem of
+[describe the problem]
+affects
+[the {LINK id=1896 title=""stakeholder"" uri=https://localhost:9443/rm/resources/TX_X0wWkQqvEe2pEteEgCQ37Q}s affected by the problem]
+the impact of which is
+[what is the impact of the problem?]
+a successful solution would be
+[list some key benefits of a successful solution]","","","","",Vision Statement
+1923,"","","","","",Trade Study Assessment Criterion
+1665,Project Scope,"Provide a short description of the system (or subsystem) being specified and its purpose, including relevant benefits, objectives, and goals. If a separate stakeholder requirements document is available, refer to it rather than duplicating its contents here.","","","",Heading
+1867,Quality Requirements,"","","","",Heading
+1595,Replace Text,"","","","",Information
+1779,User Documentation,"List the user documentation components (such as user manuals, on-line help, and tutorials) that will be delivered along with the software. Identify any known user documentation delivery formats or standards.","","","",Heading
+1843,Replace Text,"","","","",Information
+1647,Criterion #1,"","","","",Trade Study Assessment Criterion
+1801,"","","","","",FMEA - Object
+1702,<Replace text>,"","","","",Information
+1614,"'------------------------------------------------
+| Probability of Occurrence | Weight | Risk     |
+|                           |        |          |
+------------------------------------------------
+| >1 in 100 units sold      | 1      | High     |
+|                           |        |          |
+------------------------------------------------
+| >1/1000                   | 0.4    | Moderate |
+|                           |        |          |
+------------------------------------------------
+| >1/10,000                 | 0.2    | Low      |
+|                           |        |          |
+------------------------------------------------
+| >1/100,000                | 0.1    | Very Low |
+|                           |        |          |
+------------------------------------------------
+| <1/100,000                | 0.05   | Rare     |
+|                           |        |          |
+------------------------------------------------","","","","",Information
+1686,Assessment Criteria,<The following sections capture the assessment criteria and associated weights and utility curves for the parent Key System Function. A table could be used instead of sections to capture this information>,"","","",Heading
+1672,"Definitions Acronyms, and Abbreviations","Ideally this information shouild be held in a central Glossary. In some cases it may be felt necessary to include it here, though we would discourage this practice and recommend information is imported from the Glossary through reporting as needed.","","","",Heading
+1786,Relationship to Predecessor and Successor Products,"","","","",Heading
+1828,Occurrence Scale,"","","","",Heading
+1837,Replace Text,"","","","",Information
+1762,Replace Text,"","","","",Information
+1871,External Operating Environment,"","","","",Heading
+1774,Verification Requirements,"","","","",Heading
+1909,Replace Text,"","","","",Information
+1599,User Classes and Characteristics,"Identify the various user classes that you anticipate will use this product. User classes may be differentiated based on frequency of use, subset of product functions used, technical expertise, security or privilege levels, educational level, or experience. Describe the pertinent characteristics of each user class. Certain requirements may pertain only to certain user classes. Distinguish the favored user classes from those who are less important to satisfy. This section is not needed in all cases, for example if a subsystem has no users and is entirely internal to a larger system.","","","",Heading
+1855,Replace Text,"","","","",System Requirement
+1750,Introduction,"","","","",Heading
+1936,"","","","","",FMEA - Object
+1858,Replace Text,"","","","",System Requirement
+1645,Replace Text,"","","","",Information
+1788,"'--------------------------------------------------------------------------------------
+| Severity of Failure                                             | Weight | Risk     |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| Patient death or serious injury, irreversible                   | 1      | Extreme  |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| Product loss of function, patient clinically affected           | 0.4    | High     |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| Clinical difficulty with product, product operable at reduced   | 0.2    | Moderate |
+|performance, patient is not clinically affected                  |        |          |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| User difficulty with product, inconvenience/distraction to user | 0.1    | Low      |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| Minor nuisance for customer                                     | 0.05   | Minor    |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------","","","","",Information
+1853,<Replace text>,"","","","",Information
+1918,Compatibility with Accessories/Auxiliary Devices,"","","","",Heading
+1809,Replace Text,"","","","",Stakeholder Requirement
+1875,Solution Candidate #1,"","","","",Trade Study Assessment Criterion
+1662,Electromagnetic Compatibility (EMC),"","","","",Heading
+1564,Relation to Current Products,"","","","",Heading
+1803,Operational Requirements,We have provided a typical set of sections. The structure and content of this section should be amended as necessary,"","","",Heading
+1758,<Assessment Criterion #1>,"Replace the heading with the name of the assessment criterion. Describe the criterion. Copy/paste this section and child sections to add assessment criteria as required.
+Specify the relative weight for this assessment criterion in the ""Weight"" attribute. The sum of all criteria weights should be unity (1.0)
+In the ""Utility curve"" attribute, describe the utility curve that will be used to convert a nominal value for each solution candidate to a normalized Measure of Effectiveness (MoE). This curve should be described in the form of points, each defined as <criterion value, utility>, where utility is in the range [0.0, 1.0]","","","",Heading
+1778,Replace Text,"","","","",Information
+1619,"This Documentation can be used to help Licensee meet compliance obligations, which may be based on laws, regulations, standards or additional practices. Any directions, suggested usage, or guidance provided by this Documentation does not constitute legal, accounting, or other professional advice, and Licensee is cautioned to obtain its own legal or other expert counsel. Licensee is solely responsible for ensuring that Licensee and Licensee's activities, applications and systems comply with all applicable laws, regulations, standards and practices. Use of this Documentation does not guarantee compliance with any law, regulation, standard or additional practice. This Documentation is designed to aid in the development of software applications and systems.  Licensee is solely responsible for the applications and systems that it develops by using this Documentation and assumes all risk and responsibility therefor.","","","","",Information
+1637,Replace Text,"","","","",Stakeholder Requirement
+1934,Statutory and Regulatory Requirements,"","","","",Heading
+1695,"","","","","",FMEA - Object
+1605,System Function 1,Don’t really say “System Function 1.” State the function name in just a few words. If appropriate use the provided headings to provide additional detail.,"","","",Heading
+1812,Product Features,"Summarize the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 3, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the specification. A picture of the major groups of related requirements and how they relate, such as a top level data flow diagram or a class diagram, is often effective.","","","",Heading
+1582,Solution Candidate #n,"","","","",Trade Study Assessment Criterion
+1904,Overview of the Document,"","","","",Heading
+1915,General Constraints,"This section should describe any items that will limit the developer’s options for building the software.
+This section should not be used to impose specific requirements or specific design constraints, but should state the reasons why certain requirements or constraints exist.","","","",Heading
+1680,<Replace text>,"","","","",Information
+1576,Replace Text,"","","","",System Requirement
+1931,Replace Text,"","","","",Information
+1833,User Characteristics,"","","","",Heading
+1589,Interface Requirements,"","","","",Heading
+1782,Security,"The stakeholder must describe the consequences of breaches of security, so that the developers can fully appreciate the criticality of each function","","","",Heading
+1610,Portability Requirements,"","","","",Heading
+1872,Risks,"Use this section to document the identified risks. Add structure to the section as appropriate. Each entry defines one risk and has attributes or links for:
+- Requirements affected (by linking)
+- Potential failure mode
+- Effect of failure (main contents)
+- Potential cause(s) / mechanism(s) of failure
+- Severity
+- Probability of detection if occurring
+- Probability of occurrence
+- Risk Priority Number (calculated using a script from severity, detection and occurrence)
+- Mitigating requirements (link)
+- New severity, detection, probability and RPN if mitigated
+
+Mitigation activity should be managed in a work management tool","","","",Heading
+1754,Adaptability,The stakeholder must describe the needs for future adaptability of the system,"","","",Heading
+1740,Replace Text,"","","","",System Requirement
+1852,Replace Text,"","","","",System Requirement
+1897,Specific requirements,"Specific requirements should be described in this section, which is the core of the Stakeholder Requirements Specification. The acceptability of the software will be assessed with respect to the specific requirements.","","","",Heading
+1574,General Description,"","","","",Heading
+1675,Verification Requirements,"","","","",Heading
+1591,Criterion #n,"","","","",Trade Study Assessment Criterion
+1707,Product perspective statement 1,"","","","",Vision Statement
+1613,Product Position Statement,"[Provide an overall statement summarizing, at the highest level, the unique position the product intends to fill in the market place. A product position statement communicates the intent of the application and the importance of the project to all concerned stakeholders.The following format may be used:]","","","",Heading
+1682,Replace Text,"","","","",Stakeholder Requirement
+1793,Replace Text,"","","","",Information
+1572,Replace Text,"","","","",System Requirement
+1763,Labeling/Packaging,"","","","",Heading
+1673,<Replace text>,"","","","",Information
+1623,Fluid Ingress,"","","","",Heading
+1751,Replace Text,"","","","",Information
+1820,Replace Text,"","","","",Information
+1711,Replace Text,"","","","",System Requirement
+1567,<Replace text>,"","","","",System Function
+1868,Replace Text,"","","","",Stakeholder Requirement
+1604,Toxicity and Biocompatibility,"","","","",Heading
+1654,Compatibility with Environment of Intended Use,"","","","",Heading
+1854,Replace Text,"","","","",Stakeholder Requirement
+1575,System approvals and standards,"","","","",Heading
+1836,Documentation Requirements,"","","","",Heading
+1573,Replace Text,"","","","",Stakeholder Requirement
+1920,Replace Text,"","","","",System Requirement
+1587,Alternative and competition,"","","","",Information
+1869,Sum of Weighted MoEs,"","","","",Trade Study Assessment Criterion
+1890,Acceptance Testing Requirements,"","","","",Heading
+1679,User Environment Requirement 1,"","","","",Vision Statement
+1829,Replace Text,"","","","",Information
+1933,Replace Text,"","","","",System Requirement
+1747,Capability Requirements,"The organization of the capability requirements should reflect the problem, and no single structure will be suitable for all cases.","","","",Heading
+1770,Replace Text,"","","","",Information
+1565,Functional Requirements,"This template illustrates organizing the functional requirements for the product by system functions, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product.","","","",Heading
+1650,"","","","","",Trade Study Assessment Criterion
+1734,Replace Text,"","","","",Stakeholder Requirement
+1834,Weighted MoE,"","","","",Trade Study Assessment Criterion
+1842,Labeling/Packaging,"","","","",Heading
+1641,Replace Text,"","","","",System Requirement
+1792,Replace Text,"","","","",Information
+1891,"","","","","",FMEA - Object
+1932,Replace Text,"","","","",Information
+1657,Overview of the Document,"This section should:
+(1)	describe what the rest of the Stakeholder Requirements Specification contains;
+(2)	explain how the Stakeholder Requirements Specification is organized.","","","",Heading
+1693,"","","","","",FMEA - Object
+1684,Replace Text,"","","","",Information
+1699,Product Description,"","","","",Heading
+1603,Acceptance Testing Requirements,"","","","",Heading
+1652,Security Requirements,Specify any requirements regarding security or privacy issues surrounding use of the product or protection of the data used or created by the product. Define any user identity authentication requirements. Refer to any external policies or regulations containing security issues that affect the product. Define any security or privacy certifications that must be satisfied.,"","","",Heading
+1722,Performance Characteristics,"","","","",Heading
+1857,<Replace text>,"","","","",Information
+1768,Replace Text,"","","","",System Requirement
+1831,Replace Text,"","","","",System Requirement
+1736,<Replace text>,"","","","",Information
+1651,Needs and Features,[Avoid design. Keep feature descriptions at a general level. Focus on capabilities needed and why (not how) they should be implemented.],"","","",Heading
+1721,Replace Text,"","","","",System Requirement
+1780,Replace Text,"","","","",Stakeholder Requirement
+1626,Trade Study Results for <Key System Function #1>,Summarize the results into the table.,"","","",Heading
+1813,Replace Text,"","","","",System Requirement
+1713,Replace Text,"","","","",System Requirement
+1656,Standards,The stakeholder must describe the standards applicable to the system,"","","",Heading
+1827,Replace Text,"","","","",System Requirement
+1839,Project Scope,"Provide a short description of the system (or subsystem) being specified and its purpose, including relevant benefits, objectives, and goals. If a separate stakeholder requirements document is available, refer to it rather than duplicating its contents here.","","","",Heading
+1685,Internal Architecture,"","","","",Heading
+1755,Replace Text,"","","","",Information
+1771,Replace Text,"","","","",Information
+1731,Overview of the Document,"","","","",Heading
+1821,Product Perspective,"Describe the context and origin of the product being specified in this specification. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the specification defines a component of a larger system, relate the requirements of the larger system to the functionality of this system and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful. Details of the external interfaces should be captured in a separate interface control document that is referenced from this specification for completeness and to simplify interactions with suppliers of interfacing systems.","","","",Heading
+1760,Other Product Requirements,"[At a high level, list applicable standards, hardware, or platform requirements; performance requirements; and environmental requirements.
+
+Define the quality ranges for performance, robustness, fault tolerance, usability, and similar characteristics that are not captured in the Feature Set.
+
+Note any design constraints, external constraints, or other dependencies.
+
+Define any specific documentation requirements, including user manuals, online help, installation, labeling, and packaging requirements.
+
+Define the priority of these other product requirements. Include, if useful, attributes such as stability, benefit, effort, and risk.]","","","",Heading
+1625,"","","","","",FMEA - Object
+1845,Maintainability Requirements,"","","","",Heading
+1876,Replace Text,"","","","",System Requirement
+1688,Replace Text,"","","","",System Requirement
+1776,Purpose,"Identify the product whose requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.","","","",Heading
+1805,Physical/Chemical Characteristics,"","","","",Heading
+1602,Replace Text,"","","","",Information
+1908,Replace Text,"","","","",System Requirement
+1896,Any of the individuals or groups who have an interest in the system under development,"","","","",Glossary Term
+1666,Replace Text,"","","","",System Requirement
+1676,References,"List any other documents or Web addresses to which this SRS refers. These may include user interface style guides, contracts, standards, system requirements specifications, use case documents, or a vision and scope document. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.","","","",Heading
+1677,Replace Text,"","","","",Stakeholder Requirement
+1903,Safety Requirements,"Specify those requirements that are concerned with possible loss, damage, or harm that could result from the use of the product. Define any safeguards or actions that must be taken, as well as actions that must be prevented. Refer to any external policies or regulations that state safety issues that affect the product’s design or use. Define any safety certifications that must be satisfied.","","","",Heading
+1615,CRRRS4242E This content cannot be exported because it contains malformed text or hyperlinks.,[This table is stored as a Microsoft Word OLE object. Double click twice on the table in order to edit the contents.],"","","",Vision Statement
+1810,Replace Text,"","","","",System Requirement
+1631,Replace Text,"","","","",Information
+1694,Replace Text,"","","","",System Requirement
+1596,Replace Text,"","","","",Information
+1835,Portability Requirements,"","","","",Heading
+1670,Replace Text,"","","","",System Requirement
+1553,"","","","","",Document - Module
+1560,"","","","","",System Requirements - Module
+1556,"","","","","",Trade Study - Document
+1559,"","","","","",Reference - Module
+1561,"","","","","",System Requirements - Module
+1555,"","","","","",Vision Document - Module
+1558,"","","","","",Reference - Module
+1554,"","","","","",Risk - Module
+1557,"","","","","",Stakeholder Requirements - Module
+1611,S,"",true,"",1559,Heading
+1896,Any of the individuals or groups who have an interest in the system under development,"",false,1611,1559,Glossary Term
+1824,Introduction,"",true,"",1556,Heading
+1816,Scope,< Describe the scope of this Trade Study Report. Which system is being defined? What will and will not be considered?>,true,1824,1556,Heading
+1736,<Replace text>,"",false,1816,1556,Information
+1590,Applicable Documents,"<List any other documents that are applicable. In particular, the stakeholder and system requirements that must be satisfied. Include references to any other source data used in this trade study.>",true,1824,1556,Heading
+1702,<Replace text>,"",false,1590,1556,Information
+1708,Trade Study Data,"",true,"",1556,Heading
+1777,<Key System Function #1>,<Replace the heading with the name of the key system function analyzed in this section. Describe the key system function. List or reference via traceability links the system functions that compose this key system function. Copy/Paste this section with children sections to add additional key system functions>,true,1708,1556,Heading
+1567,<Replace text>,"",false,1777,1556,System Function
+1686,Assessment Criteria,<The following sections capture the assessment criteria and associated weights and utility curves for the parent Key System Function. A table could be used instead of sections to capture this information>,true,1777,1556,Heading
+1673,<Replace text>,"",false,1686,1556,Information
+1758,<Assessment Criterion #1>,"Replace the heading with the name of the assessment criterion. Describe the criterion. Copy/paste this section and child sections to add assessment criteria as required.
+Specify the relative weight for this assessment criterion in the ""Weight"" attribute. The sum of all criteria weights should be unity (1.0)
+In the ""Utility curve"" attribute, describe the utility curve that will be used to convert a nominal value for each solution candidate to a normalized Measure of Effectiveness (MoE). This curve should be described in the form of points, each defined as <criterion value, utility>, where utility is in the range [0.0, 1.0]",true,1686,1556,Heading
+1569,<Replace text>,"",false,1758,1556,Trade Study Assessment Criterion
+1840,Solution Candidates,"",true,1777,1556,Heading
+1632,Solution Candidate #1,<Replace the heading with the name of the solution candidate. Describe the solution candidate. Provide source data (i.e. nominal values for each assessment criterion) either directly in this document or by reference. Copy/paste this section as required to add additional solution candidates as required.>,true,1840,1556,Heading
+1938,<Replace text>,"",false,1632,1556,Information
+1626,Trade Study Results for <Key System Function #1>,Summarize the results into the table.,true,1777,1556,Heading
+1857,<Replace text>,"",false,1626,1556,Information
+1749,"'---------------------------------------------------------------------------------------
+| Criteria     | Solution Candidate #1 | Solution Candidate #2 | Solution Candidate #n |
+---------------------------------------------------------------------------------------
+| Criterion #1 | Weighted MoE          | Weighted MoE          | Weighted MoE          |
+---------------------------------------------------------------------------------------
+| Criterion #2 | Weighted MoE          | Weighted MoE          | Weighted MoE          |
+---------------------------------------------------------------------------------------
+| Criterion #n | Weighted MoE          | Weighted MoE          | Weighted MoE          |
+---------------------------------------------------------------------------------------
+| Total        | Sum of Weighted MoEs  | Sum of Weighted MoEs  | Sum of Weighted MoEs  |
+---------------------------------------------------------------------------------------
+
+ ","",false,1626,1556,Information
+1877,Conclusions for <Key System Function #1>,Summarize the findings of the trade study for this key system function,true,1777,1556,Heading
+1853,<Replace text>,"",false,1877,1556,Information
+1907,Trade Study Recommendations,<Summarize the results of the trade study for all key system functions and the resulting integrated solution. Identify any resulting constraints on the overall architecture.>,true,"",1556,Heading
+1680,<Replace text>,"",false,1907,1556,Information
+1750,Introduction,"",true,"",1554,Heading
+1584,FMEA Scales,"Use these scales to assign weights, in the range 0-1, in accordance with your practices for FMECA.",true,"",1554,Heading
+1756,Severity Scale,"",true,1584,1554,Heading
+1788,"'--------------------------------------------------------------------------------------
+| Severity of Failure                                             | Weight | Risk     |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| Patient death or serious injury, irreversible                   | 1      | Extreme  |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| Product loss of function, patient clinically affected           | 0.4    | High     |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| Clinical difficulty with product, product operable at reduced   | 0.2    | Moderate |
+|performance, patient is not clinically affected                  |        |          |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| User difficulty with product, inconvenience/distraction to user | 0.1    | Low      |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------
+| Minor nuisance for customer                                     | 0.05   | Minor    |
+|                                                                 |        |          |
+--------------------------------------------------------------------------------------","",false,1756,1554,Information
+1828,Occurrence Scale,"",true,1584,1554,Heading
+1614,"'------------------------------------------------
+| Probability of Occurrence | Weight | Risk     |
+|                           |        |          |
+------------------------------------------------
+| >1 in 100 units sold      | 1      | High     |
+|                           |        |          |
+------------------------------------------------
+| >1/1000                   | 0.4    | Moderate |
+|                           |        |          |
+------------------------------------------------
+| >1/10,000                 | 0.2    | Low      |
+|                           |        |          |
+------------------------------------------------
+| >1/100,000                | 0.1    | Very Low |
+|                           |        |          |
+------------------------------------------------
+| <1/100,000                | 0.05   | Rare     |
+|                           |        |          |
+------------------------------------------------","",false,1828,1554,Information
+1785,Probability of Detection,"",true,1584,1554,Heading
+1766,"'--------------------------------------------------------------------------------------------
+| Probability of Detection                                              | Weight | Risk     |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| Used on patient and hazard is not detected by user                    | 1      | High     |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| Used on patient and hazard is detected by user                        | 0.4    | Moderate |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| User detects before use on patient during set up                      | 0.2    | Medium   |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| Identified by customer prior to set up in room                        | 0.1    | Low      |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------
+| Detected prior to shipping product to customer by design              | 0.05   | Very Low |
+|verification, pre-production, process validation, pilot production or  |        |          |
+|manufacturing inspections                                              |        |          |
+|                                                                       |        |          |
+--------------------------------------------------------------------------------------------","",false,1785,1554,Information
+1872,Risks,"Use this section to document the identified risks. Add structure to the section as appropriate. Each entry defines one risk and has attributes or links for:
+- Requirements affected (by linking)
+- Potential failure mode
+- Effect of failure (main contents)
+- Potential cause(s) / mechanism(s) of failure
+- Severity
+- Probability of detection if occurring
+- Probability of occurrence
+- Risk Priority Number (calculated using a script from severity, detection and occurrence)
+- Mitigating requirements (link)
+- New severity, detection, probability and RPN if mitigated
+
+Mitigation activity should be managed in a work management tool",true,"",1554,Heading
+1577,<Risk 1>,"",false,"",1554,Risk
+1790,Introduction,This section should provide an overview of the entire document and a description of the scope of the software.,true,"",1557,Heading
+1571,Purpose of the Document,"This section should:
+(1) define the purpose of the particular Stakeholder Requirements Specification;
+(2) specify the intended readership of the Stakeholder Requirements Specification.",true,1790,1557,Heading
+1684,Replace Text,"",false,1571,1557,Information
+1892,Scope of the Product,"This section should:
+(1) identify the software product(s) to be produced by name;
+(2)	explain what the proposed software will do (and will not do, if necessary);
+(3)	describe relevant benefits, objectives, and goals as precisely as possible;
+(4)	be consistent with similar statements in higher-level specifications, if they exist.",true,1790,1557,Heading
+1602,Replace Text,"",false,1892,1557,Information
+1844,"Definitions Acronyms, and Abbreviations","",true,1790,1557,Heading
+1820,Replace Text,"",false,1844,1557,Information
+1600,References,"This section should provide a complete list of all the applicable and reference documents, identified by title, author and date. Each document should be marked as applicable or reference. If appropriate, report number, journal name and publishing organization should be included.",true,1790,1557,Heading
+1674,Replace Text,"",false,1600,1557,Information
+1657,Overview of the Document,"This section should:
+(1)	describe what the rest of the Stakeholder Requirements Specification contains;
+(2)	explain how the Stakeholder Requirements Specification is organized.",true,1790,1557,Heading
+1683,Replace Text,"",false,1657,1557,Information
+1757,General Description,This chapter should describe the general factors that affect the product and its requirements. This chapter does not state specific requirements but makes those requirements easier to understand.,true,"",1557,Heading
+1837,Replace Text,"",false,1757,1557,Information
+1649,Product perspective,"This section puts the product into perspective with other related systems. If the product is to replace an existing system, the system should be described and referenced. Ancestors of the product that are no longer in use might be mentioned. If the product is ‘standalone’, it should be stated here.",true,1757,1557,Heading
+1906,Replace Text,"",false,1649,1557,Information
+1563,General Capabilities,"This section should describe the main capabilities and why they are needed. This section should describe the process to be supported by the software, indicating those parts of the process where it is used.",true,1757,1557,Heading
+1678,Replace Text,"",false,1563,1557,Information
+1915,General Constraints,"This section should describe any items that will limit the developer’s options for building the software.
+This section should not be used to impose specific requirements or specific design constraints, but should state the reasons why certain requirements or constraints exist.",true,1757,1557,Heading
+1912,Replace Text,"",false,1915,1557,Information
+1833,User Characteristics,"",true,1757,1557,Heading
+1645,Replace Text,"",false,1833,1557,Information
+1850,User/Patient/Clinical Needs,"",true,1833,1557,Heading
+1794,Replace Text,"",false,1850,1557,Information
+1879,Intended Use,"",true,1833,1557,Heading
+1735,Replace Text,"",false,1879,1557,Information
+1703,Operational Environment,"This section should describe the real world the software is to operate in. This narrative description may be supported by context diagrams, to summaries external interfaces, and system block diagrams, to show how the activity fits within the larger system. The nature of the exchanges with external systems should be specified.
+If a Stakeholder Requirements Specification defines a product that is a component of a parent system or project then this section should:
+· outline the activities that will be supported by external systems;
+· reference the Interface Control Documents that define the external interfaces with the other systems;
+· describe the computer infrastructure to be used.",true,1757,1557,Heading
+1691,Replace Text,"",false,1703,1557,Information
+1798,User End States,"",true,1703,1557,Heading
+1793,Replace Text,"",false,1798,1557,Information
+1804,Operational Scenarios,"",true,1703,1557,Heading
+1792,Replace Text,"",false,1804,1557,Information
+1905,Assumptions and Dependencies,"This section should list the assumptions that the specific requirements are based on. Risk analysis should be used to identify assumptions that may not prove to be valid.
+A constraint requirement, for example, might specify an interface with a system that does not exist. If the production of the system does not occur when expected, the Stakeholder Requirements Specification may have to change.",true,1757,1557,Heading
+1596,Replace Text,"",false,1905,1557,Information
+1897,Specific requirements,"Specific requirements should be described in this section, which is the core of the Stakeholder Requirements Specification. The acceptability of the software will be assessed with respect to the specific requirements.",true,"",1557,Heading
+1607,Replace Text,"",false,1897,1557,Stakeholder Requirement
+1747,Capability Requirements,"The organization of the capability requirements should reflect the problem, and no single structure will be suitable for all cases.",true,1897,1557,Heading
+1637,Replace Text,"",false,1747,1557,Stakeholder Requirement
+1796,Constraint requirements,"Constraint requirements may cover any topic that does not directly relate to the specific capabilities the stakeholders require.
+Requirements that ensure the software will be fit for its purpose should be stated, for example in the following examples sections:",true,1897,1557,Heading
+1646,Replace Text,"",false,1796,1557,Stakeholder Requirement
+1754,Adaptability,The stakeholder must describe the needs for future adaptability of the system,true,1796,1557,Heading
+1899,Replace Text,"",false,1754,1557,Stakeholder Requirement
+1633,Availability,"The stakeholder must describe the consequences of losses of availability, so that the developers can fully appreciate the criticality of each function",true,1796,1557,Heading
+1800,Replace Text,"",false,1633,1557,Stakeholder Requirement
+1568,Portability,The stakeholder must describe the needs for portability of the system,true,1796,1557,Heading
+1601,Replace Text,"",false,1568,1557,Stakeholder Requirement
+1782,Security,"The stakeholder must describe the consequences of breaches of security, so that the developers can fully appreciate the criticality of each function",true,1796,1557,Heading
+1819,Replace Text,"",false,1782,1557,Stakeholder Requirement
+1701,Safety,The stakeholder must describe the safety needs for the system,true,1796,1557,Heading
+1573,Replace Text,"",false,1701,1557,Stakeholder Requirement
+1656,Standards,The stakeholder must describe the standards applicable to the system,true,1796,1557,Heading
+1809,Replace Text,"",false,1656,1557,Stakeholder Requirement
+1784,Interfaces,"Constraint requirements that relate to interfaces should be grouped, for example as in the following sections.
+If the software is part of a larger system then any documents (e.g. ICDs) that describe the interfaces should be identified.",true,1897,1557,Heading
+1868,Replace Text,"",false,1784,1557,Stakeholder Requirement
+1566,Communications interfaces,"",true,1784,1557,Heading
+1728,Replace Text,"",false,1566,1557,Stakeholder Requirement
+1883,Hardware interfaces,"",true,1784,1557,Heading
+1682,Replace Text,"",false,1883,1557,Stakeholder Requirement
+1884,Software interfaces,"",true,1784,1557,Heading
+1734,Replace Text,"",false,1884,1557,Stakeholder Requirement
+1706,Human-computer interactions (user interfaces),"",true,1784,1557,Heading
+1898,Replace Text,"",false,1706,1557,Stakeholder Requirement
+1885,Performance Requirements,"",true,1897,1557,Heading
+1580,Replace Text,"",false,1885,1557,Stakeholder Requirement
+1727,Human Factors,"",true,1897,1557,Heading
+1930,Replace Text,"",false,1727,1557,Stakeholder Requirement
+1669,Validation Requirements,"",true,1897,1557,Heading
+1677,Replace Text,"",false,1669,1557,Stakeholder Requirement
+1627,User Acceptance Testing Requirements,"",true,1669,1557,Heading
+1780,Replace Text,"",false,1627,1557,Stakeholder Requirement
+1759,Documentation Requirements,"",true,1897,1557,Heading
+1815,Replace Text,"",false,1759,1557,Stakeholder Requirement
+1764,Voluntary/Organizational Requirements,"",true,1759,1557,Heading
+1648,Replace Text,"",false,1764,1557,Stakeholder Requirement
+1934,Statutory and Regulatory Requirements,"",true,1759,1557,Heading
+1854,Replace Text,"",false,1934,1557,Stakeholder Requirement
+1730,Compatibility with Environment of Intended Use,"",true,1919,1560,Heading
+1929,Replace Text,"",false,1730,1560,System Requirement
+1643,Nonfunctional Requirements,We have provided a typical set of sections. The structure and content of this section should be amended as necessary,true,"",1560,Heading
+1818,Replace Text,"",false,1643,1560,System Requirement
+1865,Replace Text,"",false,1716,1560,Information
+1564,Relation to Current Products,"",true,1866,1560,Heading
+1769,Replace Text,"",false,1564,1560,Information
+1786,Relationship to Predecessor and Successor Products,"",true,1866,1560,Heading
+1770,Replace Text,"",false,1786,1560,Information
+1752,Overall Description,"",true,"",1560,Heading
+1664,Replace Text,"",false,1752,1560,Information
+1807,Product Perspective,"Describe the context and origin of the product being specified in this specification. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the specification defines a component of a larger system, relate the requirements of the larger system to the functionality of this system and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful. Details of the external interfaces should be captured in a separate interface control document that is referenced from this specification for completeness and to simplify interactions with suppliers of interfacing systems.",true,1752,1560,Heading
+1667,Replace Text,"",false,1807,1560,Information
+1812,Product Features,"Summarize the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 3, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the specification. A picture of the major groups of related requirements and how they relate, such as a top level data flow diagram or a class diagram, is often effective.",true,1752,1560,Heading
+1767,Replace Text,"",false,1812,1560,Information
+1719,User Classes and Characteristics,"Identify the various user classes that you anticipate will use this product. User classes may be differentiated based on frequency of use, subset of product functions used, technical expertise, security or privilege levels, educational level, or experience. Describe the pertinent characteristics of each user class. Certain requirements may pertain only to certain user classes. Distinguish the favored user classes from those who are less important to satisfy. This section is not needed in all cases, for example if a subsystem has no users and is entirely internal to a larger system.",true,1752,1560,Heading
+1638,Replace Text,"",false,1719,1560,Information
+1849,Operating Environment,"Describe the environment in which the system will operate, including other systems with which the system must interoperate as well as environmental conditions that the system will experience.",true,1752,1560,Heading
+1634,Replace Text,"",false,1849,1560,Information
+1640,Design and Implementation Constraints,"Describe any items or issues that will limit the options available to the developers. These might include: corporate or regulatory policies; hardware limitations (timing requirements, memory requirements); interfaces to other applications; specific technologies, tools, and databases to be used; parallel operations; language requirements; communications protocols; security considerations; design conventions or programming standards (for example, if the system contains embedded software).",true,1752,1560,Heading
+1631,Replace Text,"",false,1640,1560,Information
+1704,User Documentation,"List the user documentation components (such as user manuals, on-line help, and tutorials) that will be delivered along with the software. Identify any known user documentation delivery formats or standards.",true,1752,1560,Heading
+1726,Replace Text,"",false,1704,1560,Information
+1814,Assumptions and Dependencies,"List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as components that you intend to reuse from another project, unless they are already documented elsewhere (for example, in the vision and scope document or the project plan).",true,1752,1560,Heading
+1595,Replace Text,"",false,1814,1560,Information
+1901,Functional Requirements,"This template illustrates organizing the functional requirements for the product by system functions, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product.",true,"",1560,Heading
+1913,Replace Text,"",false,1901,1560,System Requirement
+1578,System Function 1,Don’t really say “System Function 1.” State the function name in just a few words. If appropriate use the provided headings to provide additional detail.,true,1901,1560,Heading
+1588,Replace Text,"",false,1578,1560,System Requirement
+1748,Function Description,Provide a short description of the function.,true,1578,1560,Heading
+1893,Replace Text,"",false,1748,1560,System Requirement
+1743,Functional Requirements,"Itemize the detailed functional requirements associated with this function. These are the software capabilities that must be present in order for the user to carry out the services, or to execute the use case. Include how the product should respond to anticipated error conditions or invalid inputs. Requirements should be concise, complete, unambiguous, verifiable, and necessary. Use “TBD” as a placeholder to indicate when necessary information is not yet available.",true,1578,1560,Heading
+1629,Replace Text,"",false,1743,1560,System Requirement
+1900,Operational Requirements,We have provided a typical set of sections. The structure and content of this section should be amended as necessary,true,"",1560,Heading
+1860,Human Factors,"",true,1900,1560,Heading
+1826,Replace Text,"",false,1860,1560,System Requirement
+1871,External Operating Environment,"",true,1900,1560,Heading
+1920,Replace Text,"",false,1871,1560,System Requirement
+1919,Interface Requirements,"",true,1900,1560,Heading
+1817,Replace Text,"",false,1919,1560,System Requirement
+1685,Internal Architecture,"",true,1919,1560,Heading
+1572,Replace Text,"",false,1685,1560,System Requirement
+1918,Compatibility with Accessories/Auxiliary Devices,"",true,1919,1560,Heading
+1579,Replace Text,"",false,1918,1560,System Requirement
+1636,Performance Characteristics,"",true,1643,1560,Heading
+1694,Replace Text,"",false,1636,1560,System Requirement
+1886,Limits and Tolerances,"",true,1636,1560,Heading
+1838,Replace Text,"",false,1886,1560,System Requirement
+1851,Introduction,"",true,"",1560,Heading
+1904,Overview of the Document,"",true,1851,1560,Heading
+1771,Replace Text,"",false,1904,1560,Information
+1894,Purpose,"Identify the product whose requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.",true,1851,1560,Heading
+1882,Replace Text,"",false,1894,1560,Information
+1839,Project Scope,"Provide a short description of the system (or subsystem) being specified and its purpose, including relevant benefits, objectives, and goals. If a separate stakeholder requirements document is available, refer to it rather than duplicating its contents here.",true,1851,1560,Heading
+1751,Replace Text,"",false,1839,1560,Information
+1655,Document Conventions,"Describe any standards or typographical conventions that were followed when writing this SRS, such as fonts or highlighting that have special significance. For example, state whether attributes for higher-level requirements are assumed to be inherited by detailed requirements, or whether every requirement statement is to have its own set of attributes.",true,1851,1560,Heading
+1863,Replace Text,"",false,1655,1560,Information
+1847,"Definitions Acronyms, and Abbreviations","Ideally this information shouild be held in a central Glossary. In some cases it may be felt necessary to include it here, though we would discourage this practice and recommend information is imported from the Glossary through reporting as needed.",true,1851,1560,Heading
+1822,Replace Text,"",false,1847,1560,Information
+1562,References,"List any other documents or Web addresses to which this SRS refers. These may include user interface style guides, contracts, standards, system requirements specifications, use case documents, or a vision and scope document. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.",true,1851,1560,Heading
+1778,Replace Text,"",false,1562,1560,Information
+1866,General Description,"",true,"",1560,Heading
+1716,Product Description,"",true,1866,1560,Heading
+1635,Resource Requirements,"",true,1643,1560,Heading
+1852,Replace Text,"",false,1635,1560,System Requirement
+1644,Documentation Requirements,"",true,1643,1560,Heading
+1933,Replace Text,"",false,1644,1560,System Requirement
+1593,Safety Requirements,"Specify those requirements that are concerned with possible loss, damage, or harm that could result from the use of the product. Define any safeguards or actions that must be taken, as well as actions that must be prevented. Refer to any external policies or regulations that state safety issues that affect the product’s design or use. Define any safety certifications that must be satisfied.",true,1643,1560,Heading
+1711,Replace Text,"",false,1593,1560,System Requirement
+1745,Fluid Ingress,"",true,1593,1560,Heading
+1876,Replace Text,"",false,1745,1560,System Requirement
+1604,Toxicity and Biocompatibility,"",true,1593,1560,Heading
+1733,Replace Text,"",false,1604,1560,System Requirement
+1662,Electromagnetic Compatibility (EMC),"",true,1593,1560,Heading
+1902,Replace Text,"",false,1662,1560,System Requirement
+1805,Physical/Chemical Characteristics,"",true,1593,1560,Heading
+1859,Replace Text,"",false,1805,1560,System Requirement
+1617,Sterility,"",true,1593,1560,Heading
+1765,Replace Text,"",false,1617,1560,System Requirement
+1652,Security Requirements,Specify any requirements regarding security or privacy issues surrounding use of the product or protection of the data used or created by the product. Define any user identity authentication requirements. Refer to any external policies or regulations containing security issues that affect the product. Define any security or privacy certifications that must be satisfied.,true,1643,1560,Heading
+1720,Replace Text,"",false,1652,1560,System Requirement
+1835,Portability Requirements,"",true,1643,1560,Heading
+1908,Replace Text,"",false,1835,1560,System Requirement
+1867,Quality Requirements,"",true,1643,1560,Heading
+1881,Replace Text,"",false,1867,1560,System Requirement
+1774,Verification Requirements,"",true,1643,1560,Heading
+1661,Replace Text,"",false,1774,1560,System Requirement
+1890,Acceptance Testing Requirements,"",true,1774,1560,Heading
+1710,Replace Text,"",false,1890,1560,System Requirement
+1668,Reliability Requirements,"",true,1643,1560,Heading
+1723,Replace Text,"",false,1668,1560,System Requirement
+1845,Maintainability Requirements,"",true,1643,1560,Heading
+1813,Replace Text,"",false,1845,1560,System Requirement
+1842,Labeling/Packaging,"",true,1643,1560,Heading
+1576,Replace Text,"",false,1842,1560,System Requirement
+1775,Materials,"",true,1643,1560,Heading
+1761,Replace Text,"",false,1775,1560,System Requirement
+1597,Statutory and Regulatory Requirements,"",true,"",1560,Heading
+1575,System approvals and standards,"",true,1597,1560,Heading
+1721,Replace Text,"",false,1575,1560,System Requirement
+1910,Document Conventions,"Describe any standards or typographical conventions that were followed when writing this SRS, such as fonts or highlighting that have special significance. For example, state whether attributes for higher-level requirements are assumed to be inherited by detailed requirements, or whether every requirement statement is to have its own set of attributes.",true,1808,1561,Heading
+1880,Replace Text,"",false,1910,1561,Information
+1672,"Definitions Acronyms, and Abbreviations","Ideally this information shouild be held in a central Glossary. In some cases it may be felt necessary to include it here, though we would discourage this practice and recommend information is imported from the Glossary through reporting as needed.",true,1808,1561,Heading
+1848,Replace Text,"",false,1672,1561,Information
+1808,Introduction,"",true,"",1561,Heading
+1731,Overview of the Document,"",true,1808,1561,Heading
+1829,Replace Text,"",false,1731,1561,Information
+1776,Purpose,"Identify the product whose requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.",true,1808,1561,Heading
+1802,Replace Text,"",false,1776,1561,Information
+1665,Project Scope,"Provide a short description of the system (or subsystem) being specified and its purpose, including relevant benefits, objectives, and goals. If a separate stakeholder requirements document is available, refer to it rather than duplicating its contents here.",true,1808,1561,Heading
+1843,Replace Text,"",false,1665,1561,Information
+1676,References,"List any other documents or Web addresses to which this SRS refers. These may include user interface style guides, contracts, standards, system requirements specifications, use case documents, or a vision and scope document. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.",true,1808,1561,Heading
+1781,Replace Text,"",false,1676,1561,Information
+1574,General Description,"",true,"",1561,Heading
+1699,Product Description,"",true,1574,1561,Heading
+1873,Replace Text,"",false,1699,1561,Information
+1746,Relation to Current Products,"",true,1574,1561,Heading
+1789,Replace Text,"",false,1746,1561,Information
+1659,Relationship to Predecessor and Successor Products,"",true,1574,1561,Heading
+1741,Replace Text,"",false,1659,1561,Information
+1583,Overall Description,"",true,"",1561,Heading
+1586,Replace Text,"",false,1583,1561,Information
+1821,Product Perspective,"Describe the context and origin of the product being specified in this specification. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the specification defines a component of a larger system, relate the requirements of the larger system to the functionality of this system and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful. Details of the external interfaces should be captured in a separate interface control document that is referenced from this specification for completeness and to simplify interactions with suppliers of interfacing systems.",true,1583,1561,Heading
+1931,Replace Text,"",false,1821,1561,Information
+1742,Product Features,"Summarize the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 3, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the specification. A picture of the major groups of related requirements and how they relate, such as a top level data flow diagram or a class diagram, is often effective.",true,1583,1561,Heading
+1932,Replace Text,"",false,1742,1561,Information
+1599,User Classes and Characteristics,"Identify the various user classes that you anticipate will use this product. User classes may be differentiated based on frequency of use, subset of product functions used, technical expertise, security or privilege levels, educational level, or experience. Describe the pertinent characteristics of each user class. Certain requirements may pertain only to certain user classes. Distinguish the favored user classes from those who are less important to satisfy. This section is not needed in all cases, for example if a subsystem has no users and is entirely internal to a larger system.",true,1583,1561,Heading
+1724,Replace Text,"",false,1599,1561,Information
+1621,Operating Environment,"Describe the environment in which the system will operate, including other systems with which the system must interoperate as well as environmental conditions that the system will experience.",true,1583,1561,Heading
+1744,Replace Text,"",false,1621,1561,Information
+1895,Design and Implementation Constraints,"Describe any items or issues that will limit the options available to the developers. These might include: corporate or regulatory policies; hardware limitations (timing requirements, memory requirements); interfaces to other applications; specific technologies, tools, and databases to be used; parallel operations; language requirements; communications protocols; security considerations; design conventions or programming standards (for example, if the system contains embedded software).",true,1583,1561,Heading
+1762,Replace Text,"",false,1895,1561,Information
+1779,User Documentation,"List the user documentation components (such as user manuals, on-line help, and tutorials) that will be delivered along with the software. Identify any known user documentation delivery formats or standards.",true,1583,1561,Heading
+1909,Replace Text,"",false,1779,1561,Information
+1592,Assumptions and Dependencies,"List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as components that you intend to reuse from another project, unless they are already documented elsewhere (for example, in the vision and scope document or the project plan).",true,1583,1561,Heading
+1755,Replace Text,"",false,1592,1561,Information
+1565,Functional Requirements,"This template illustrates organizing the functional requirements for the product by system functions, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product.",true,"",1561,Heading
+1874,Replace Text,"",false,1565,1561,System Requirement
+1605,System Function 1,Don’t really say “System Function 1.” State the function name in just a few words. If appropriate use the provided headings to provide additional detail.,true,1565,1561,Heading
+1641,Replace Text,"",false,1605,1561,System Requirement
+1612,Function Description,Provide a short description of the function.,true,1605,1561,Heading
+1670,Replace Text,"",false,1612,1561,System Requirement
+1825,Functional Requirements,"Itemize the detailed functional requirements associated with this function. These are the software capabilities that must be present in order for the user to carry out the services, or to execute the use case. Include how the product should respond to anticipated error conditions or invalid inputs. Requirements should be concise, complete, unambiguous, verifiable, and necessary. Use “TBD” as a placeholder to indicate when necessary information is not yet available.",true,1605,1561,Heading
+1827,Replace Text,"",false,1825,1561,System Requirement
+1803,Operational Requirements,We have provided a typical set of sections. The structure and content of this section should be amended as necessary,true,"",1561,Heading
+1862,Human Factors,"",true,1803,1561,Heading
+1714,Replace Text,"",false,1862,1561,System Requirement
+1935,External Operating Environment,"",true,1803,1561,Heading
+1831,Replace Text,"",false,1935,1561,System Requirement
+1589,Interface Requirements,"",true,1803,1561,Heading
+1864,Replace Text,"",false,1589,1561,System Requirement
+1772,Internal Architecture,"",true,1589,1561,Heading
+1698,Replace Text,"",false,1772,1561,System Requirement
+1606,Compatibility with Accessories/Auxiliary Devices,"",true,1589,1561,Heading
+1830,Replace Text,"",false,1606,1561,System Requirement
+1654,Compatibility with Environment of Intended Use,"",true,1589,1561,Heading
+1916,Replace Text,"",false,1654,1561,System Requirement
+1799,Nonfunctional Requirements,We have provided a typical set of sections. The structure and content of this section should be amended as necessary,true,"",1561,Heading
+1609,Replace Text,"",false,1799,1561,System Requirement
+1722,Performance Characteristics,"",true,1799,1561,Heading
+1810,Replace Text,"",false,1722,1561,System Requirement
+1660,Limits and Tolerances,"",true,1722,1561,Heading
+1878,Replace Text,"",false,1660,1561,System Requirement
+1663,Resource Requirements,"",true,1799,1561,Heading
+1712,Replace Text,"",false,1663,1561,System Requirement
+1836,Documentation Requirements,"",true,1799,1561,Heading
+1783,Replace Text,"",false,1836,1561,System Requirement
+1903,Safety Requirements,"Specify those requirements that are concerned with possible loss, damage, or harm that could result from the use of the product. Define any safeguards or actions that must be taken, as well as actions that must be prevented. Refer to any external policies or regulations that state safety issues that affect the product’s design or use. Define any safety certifications that must be satisfied.",true,1799,1561,Heading
+1666,Replace Text,"",false,1903,1561,System Requirement
+1623,Fluid Ingress,"",true,1903,1561,Heading
+1917,Replace Text,"",false,1623,1561,System Requirement
+1889,Toxicity and Biocompatibility,"",true,1903,1561,Heading
+1740,Replace Text,"",false,1889,1561,System Requirement
+1926,Electromagnetic Compatibility (EMC),"",true,1903,1561,Heading
+1924,Replace Text,"",false,1926,1561,System Requirement
+1846,Physical/Chemical Characteristics,"",true,1903,1561,Heading
+1911,Replace Text,"",false,1846,1561,System Requirement
+1616,Sterility,"",true,1903,1561,Heading
+1855,Replace Text,"",false,1616,1561,System Requirement
+1620,Security Requirements,Specify any requirements regarding security or privacy issues surrounding use of the product or protection of the data used or created by the product. Define any user identity authentication requirements. Refer to any external policies or regulations containing security issues that affect the product. Define any security or privacy certifications that must be satisfied.,true,1799,1561,Heading
+1773,Replace Text,"",false,1620,1561,System Requirement
+1610,Portability Requirements,"",true,1799,1561,Heading
+1689,Replace Text,"",false,1610,1561,System Requirement
+1642,Quality Requirements,"",true,1799,1561,Heading
+1713,Replace Text,"",false,1642,1561,System Requirement
+1675,Verification Requirements,"",true,1799,1561,Heading
+1858,Replace Text,"",false,1675,1561,System Requirement
+1603,Acceptance Testing Requirements,"",true,1675,1561,Heading
+1823,Replace Text,"",false,1603,1561,System Requirement
+1806,Reliability Requirements,"",true,1799,1561,Heading
+1688,Replace Text,"",false,1806,1561,System Requirement
+1797,Maintainability Requirements,"",true,1799,1561,Heading
+1687,Replace Text,"",false,1797,1561,System Requirement
+1763,Labeling/Packaging,"",true,1799,1561,Heading
+1925,Replace Text,"",false,1763,1561,System Requirement
+1787,Materials,"",true,1799,1561,Heading
+1768,Replace Text,"",false,1787,1561,System Requirement
+1887,Statutory and Regulatory Requirements,"",true,"",1561,Heading
+1700,System approvals and standards,"",true,1887,1561,Heading
+1585,Replace Text,"",false,1700,1561,System Requirement
+1870,Stakeholder 1 Name,"",false,1639,1555,Stakeholder Definition
+1658,Stakeholder 2 Name,"",false,1639,1555,Stakeholder Definition
+1594,Stakeholder n Name,"",false,1639,1555,Stakeholder Definition
+1725,Product Overview,"",true,"",1555,Heading
+1841,Product Perspective,"[This subsection of the Vision document puts the product in perspective to other related products and the user’s environment. If the product is independent and totally self-contained, state it here. If the product is a component of a larger system, then this subsection needs to relate how these systems interact and needs to identify the relevant interfaces between the systems. One easy way to display the major components of the larger system, interconnections, and external interfaces is with a block diagram.]",true,1725,1555,Heading
+1707,Product perspective statement 1,"",false,1841,1555,Vision Statement
+1692,User Environment,"[Detail the working environment of the target user. Here are some suggestions:
+Number of people involved in completing the task? Is this changing?
+How long is a task cycle?
+Amount of time spent in each activity? Is this changing?
+
+Any unique environmental constraints: mobile, outdoors, in-flight, and so on?
+Which system platforms are in use today? Future platforms?
+
+What other applications are in use? Does your application need to integrate with them?
+
+This is where extracts from the Business Model could be included to outline the task and roles involved, and so on.]",true,1725,1555,Heading
+1679,User Environment Requirement 1,"",false,1692,1555,Vision Statement
+1598,Assumptions and Dependencies,"[List each factor that affects the features stated in the Vision document. List assumptions that, if changed, will alter the Vision document. For example, an assumption may state that a specific operating system will be available for the hardware designated for the software product. If the operating system is not available, the Vision document will need to change.]",true,1725,1555,Heading
+1927,Assumption / dependency 1,"",false,1598,1555,Vision Statement
+1651,Needs and Features,[Avoid design. Keep feature descriptions at a general level. Focus on capabilities needed and why (not how) they should be implemented.],true,"",1555,Heading
+1690,Need 1,"",true,1651,1555,Heading
+1940,Feature 11,"",false,1690,1555,Vision Statement
+1791,Feature 12,"",false,1690,1555,Vision Statement
+1922,Feature 1n,"",false,1690,1555,Vision Statement
+1671,Need N,"",true,1651,1555,Heading
+1732,Feature N1,"",false,1671,1555,Vision Statement
+1630,Feature N2,"",false,1671,1555,Vision Statement
+1718,Feature Nn,"",false,1671,1555,Vision Statement
+1760,Other Product Requirements,"[At a high level, list applicable standards, hardware, or platform requirements; performance requirements; and environmental requirements.
+
+Define the quality ranges for performance, robustness, fault tolerance, usability, and similar characteristics that are not captured in the Feature Set.
+
+Note any design constraints, external constraints, or other dependencies.
+
+Define any specific documentation requirements, including user manuals, online help, installation, labeling, and packaging requirements.
+
+Define the priority of these other product requirements. Include, if useful, attributes such as stability, benefit, effort, and risk.]",true,"",1555,Heading
+1832,Other Product Requirement 1,"",false,1760,1555,Vision Statement
+1619,"This Documentation can be used to help Licensee meet compliance obligations, which may be based on laws, regulations, standards or additional practices. Any directions, suggested usage, or guidance provided by this Documentation does not constitute legal, accounting, or other professional advice, and Licensee is cautioned to obtain its own legal or other expert counsel. Licensee is solely responsible for ensuring that Licensee and Licensee's activities, applications and systems comply with all applicable laws, regulations, standards and practices. Use of this Documentation does not guarantee compliance with any law, regulation, standard or additional practice. This Documentation is designed to aid in the development of software applications and systems.  Licensee is solely responsible for the applications and systems that it develops by using this Documentation and assumes all risk and responsibility therefor.","",false,"",1553,Information
+1628,Introduction,"",true,"",1555,Heading
+1581,Positioning,"",true,"",1555,Heading
+1937,Problem Statement,[Provide a statement summarizing the problem being solved by this project. The following format may be used:],true,1581,1555,Heading
+1729,"The problem of
+[describe the problem]
+affects
+[the {LINK id=1896 title=""stakeholder"" uri=https://localhost:9443/rm/resources/TX_X0wWkQqvEe2pEteEgCQ37Q}s affected by the problem]
+the impact of which is
+[what is the impact of the problem?]
+a successful solution would be
+[list some key benefits of a successful solution]","",false,1937,1555,Vision Statement
+1613,Product Position Statement,"[Provide an overall statement summarizing, at the highest level, the unique position the product intends to fill in the market place. A product position statement communicates the intent of the application and the importance of the project to all concerned stakeholders.The following format may be used:]",true,1581,1555,Heading
+1570,"For
+[target customer]
+Who
+[statement of the need or opportunity]
+The (product name)
+is a [product category]
+That
+[statement of key benefit; that is, the compelling reason to buy]
+Unlike
+[primary competitive alternative]
+Our product
+[statement of primary differentiation]","",false,1613,1555,Vision Statement
+1624,Alternatives and Competition,"[Identify alternatives the stakeholder perceives as available. These can include buying a competitor’s product, building a homegrown solution, or simply maintaining the status quo. List any known competitive choices that exist or may become available. Include the major strengths and weaknesses of each competitor as perceived by the stakeholder or end user.]",true,1581,1555,Heading
+1587,Alternative and competition,"",false,1624,1555,Information
+1639,Stakeholder Descriptions,"",true,"",1555,Heading
+
+METADATA
+Exported Artifact IDs=1789|1566|1937|1798|1886|1668|1624|1586|1905|1865|1797|1906|1655|1592|1571|1618|1892|1622|1720|1664|1846|1620|1785|1594|1759|1856|1925|1777|1861|1878|1816|1639|1719|1569|1877|1888|1787|1746|1752|1898|1761|1883|1580|1817|1612|1593|1939|1814|1822|1866|1844|1914|1616|1764|1633|1732|1795|1895|1692|1910|1784|1598|1819|1724|1663|1634|1808|1928|1924|1678|1700|1802|1646|1851|1743|1938|1630|1737|1570|1728|1669|1745|1568|1807|1562|1847|1860|1629|1588|1716|1790|1632|1689|1660|1791|1772|1862|1863|1714|1841|1804|1769|1710|1811|1773|1578|1879|1726|1874|1926|1894|1766|1671|1783|1913|1900|1703|1691|1881|1930|1640|1911|1921|1757|1887|1705|1696|1718|1667|1765|1583|1727|1748|1590|1739|1781|1742|1706|1741|1838|1723|1907|1627|1899|1607|1653|1733|1840|1658|1744|1929|1648|1749|1644|1832|1815|1824|1708|1756|1642|1884|1674|1601|1636|1916|1799|1577|1901|1725|1585|1738|1912|1880|1830|1600|1643|1873|1579|1775|1638|1628|1717|1635|1922|1859|1825|1697|1611|1649|1621|1823|1730|1848|1767|1687|1661|1659|1917|1606|1800|1935|1683|1608|1753|1919|1806|1870|1849|1609|1581|1597|1704|1709|1864|1796|1826|1563|1850|1818|1940|1681|1715|1882|1893|1690|1701|1902|1584|1927|1712|1698|1617|1889|1885|1794|1735|1729|1923|1665|1867|1595|1779|1843|1647|1801|1702|1614|1686|1672|1786|1828|1837|1762|1871|1774|1909|1599|1855|1750|1936|1858|1645|1788|1853|1918|1809|1875|1662|1564|1803|1758|1778|1619|1637|1934|1695|1605|1812|1582|1904|1915|1680|1576|1931|1833|1589|1782|1610|1872|1754|1740|1852|1897|1574|1675|1591|1707|1613|1682|1793|1572|1763|1673|1623|1751|1820|1711|1567|1868|1604|1654|1854|1575|1836|1573|1920|1587|1869|1890|1679|1829|1933|1747|1770|1565|1650|1734|1834|1842|1641|1792|1891|1932|1657|1693|1684|1699|1603|1652|1722|1857|1768|1831|1736|1651|1721|1780|1626|1813|1713|1656|1827|1839|1685|1755|1771|1731|1821|1760|1625|1845|1876|1688|1776|1805|1602|1908|1896|1666|1676|1677|1903|1615|1810|1631|1694|1596|1835|1670|1553|1560|1556|1559|1561|1555|1558|1554|1557|1611|1896|1824|1816|1736|1590|1702|1708|1777|1567|1686|1673|1758|1569|1840|1632|1938|1626|1857|1749|1877|1853|1907|1680|1750|1584|1756|1788|1828|1614|1785|1766|1872|1577|1790|1571|1684|1892|1602|1844|1820|1600|1674|1657|1683|1757|1837|1649|1906|1563|1678|1915|1912|1833|1645|1850|1794|1879|1735|1703|1691|1798|1793|1804|1792|1905|1596|1897|1607|1747|1637|1796|1646|1754|1899|1633|1800|1568|1601|1782|1819|1701|1573|1656|1809|1784|1868|1566|1728|1883|1682|1884|1734|1706|1898|1885|1580|1727|1930|1669|1677|1627|1780|1759|1815|1764|1648|1934|1854|1730|1929|1643|1818|1865|1564|1769|1786|1770|1752|1664|1807|1667|1812|1767|1719|1638|1849|1634|1640|1631|1704|1726|1814|1595|1901|1913|1578|1588|1748|1893|1743|1629|1900|1860|1826|1871|1920|1919|1817|1685|1572|1918|1579|1636|1694|1886|1838|1851|1904|1771|1894|1882|1839|1751|1655|1863|1847|1822|1562|1778|1866|1716|1635|1852|1644|1933|1593|1711|1745|1876|1604|1733|1662|1902|1805|1859|1617|1765|1652|1720|1835|1908|1867|1881|1774|1661|1890|1710|1668|1723|1845|1813|1842|1576|1775|1761|1597|1575|1721|1910|1880|1672|1848|1808|1731|1829|1776|1802|1665|1843|1676|1781|1574|1699|1873|1746|1789|1659|1741|1583|1586|1821|1931|1742|1932|1599|1724|1621|1744|1895|1762|1779|1909|1592|1755|1565|1874|1605|1641|1612|1670|1825|1827|1803|1862|1714|1935|1831|1589|1864|1772|1698|1606|1830|1654|1916|1799|1609|1722|1810|1660|1878|1663|1712|1836|1783|1903|1666|1623|1917|1889|1740|1926|1924|1846|1911|1616|1855|1620|1773|1610|1689|1642|1713|1675|1858|1603|1823|1806|1688|1797|1687|1763|1925|1787|1768|1887|1700|1585|1870|1658|1594|1725|1841|1707|1692|1679|1598|1927|1651|1690|1940|1791|1922|1671|1732|1630|1718|1760|1832|1619|1628|1581|1937|1729|1613|1570|1624|1587|1639
+Export Project Area=https://localhost:9443/rm/rm-projects/_WN9X4AqvEe2pEteEgCQ37Q/components/_WWELAAqvEe2pEteEgCQ37Q
+Export Configuration=https://localhost:9443/rm/cm/stream/_WWLfwAqvEe2pEteEgCQ37Q
+Export Locale=en_US
+Export Errors (listed in cells)=1
